@@ -1,3 +1,4 @@
+# .gitignore
 lib-cov
 *.seed
 *.log
@@ -5,7 +6,9 @@ lib-cov
 *.dat
 *.out
 *.pid
+*.swp
 *.gz
+*~
 
 pids
 logs
