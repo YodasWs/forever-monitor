@@ -1,7 +1,7 @@
 {
 	"name": "@yodasws/forever-monitor",
 	"description": "Core forever process monitor",
-	"version": "1.7.2",
+	"version": "1.8.0",
 	"author": [
 		"Charlie Robbins <charlie.robbins@gmail.com>",
 		"Sam Grundman <npm@yodas.ws>"
